@@ -1,4 +1,4 @@
 try_git
 =======
-Rakesh
+this is my 3rd commit
 First git demo
